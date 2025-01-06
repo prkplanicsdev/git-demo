@@ -17,7 +17,7 @@
                             </a>
 
                             <h3 class="f1-l-3 cl2 p-b-16 p-t-33 respon2">
-                                {{$data['post']->title}}
+                                News {{$data['post']->title}}
                             </h3>
 
                             <div class="flex-wr-s-s p-b-40">
